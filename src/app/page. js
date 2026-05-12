@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main style={{padding: '40px', fontFamily: 'sans-serif'}}>
+      <h1>Bac Bepc - Exam Hub Africa</h1>
+      <p>Site is live. Homepage works.</p>
+    </main>
+  )
+}
